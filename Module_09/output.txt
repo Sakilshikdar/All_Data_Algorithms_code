@@ -1,0 +1,7 @@
+dist of 1 : 0
+dist of 2 : 3
+dist of 3 : 5
+dist of 4 : 6
+dist of 5 : 8
+dist of 6 : 7
+dist of 7 : 10
